@@ -1,2 +1,2 @@
 # java_practice
-these are the practise code for java programming..
+these are the practise code in java programming..
