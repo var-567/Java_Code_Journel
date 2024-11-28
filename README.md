@@ -1,2 +1,3 @@
-# java_practice
-these are the practise code in java programming..
+# java_code_journel
+A repository where i store my daily coding practise.
+Problem range from datastructure to leetcode level problem.
